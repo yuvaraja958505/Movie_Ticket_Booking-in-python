@@ -1,0 +1,53 @@
+Your movie_name is Aranmanai4 - 2024-06-25 14:15:44
+You registered successfully.
+Your movie_name is Aranmanai4 - 2024-06-25 14:23:45
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 14:25:18
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 14:26:24
+You registered successfully.
+Your movie_name is The Family star - 2024-06-25 17:46:30 total price is 400
+You registered successfully.
+Your movie_name is PT sir - 2024-06-25 17:48:06 total price is 400
+You registered successfully.
+Your movie_name is Aranmanai4 - 2024-06-25 17:49:48 total price is 600
+You registered successfully.
+Your movie_name is The Family star - 2024-06-25 18:01:21 total price is 600 and GST is 298.5074626865672
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:02:17 total price is 400 and GST is 200.0 %
+You registered successfully.
+Your movie_name is PT sir - 2024-06-25 18:07:00 total price is 600 and GST is 299.5008319467554 %
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:07:45 total price is 400 and GST is 200.0 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 18:08:44 total price is 600 and GST is 3000.0 %
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:09:42 total price is 400 and GST is 40000 %
+You registered successfully.
+Your movie_name is Aranmanai4 - 2024-06-25 18:10:58 total price is 600 and GST is 33.333333333333336 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 18:11:40 total price is 600 and GST is 6666.666666666667 %
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:14:16 total price is 800 and GST is 800.0 %
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:14:52 total price is 800 and GST is 800.0 %
+You registered successfully.
+Your movie_name is PT sir - 2024-06-25 18:15:14 total price is 200 and GST is 400.0 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 18:15:54 total price is 400 and GST is 200.0 %
+You registered successfully.
+Your movie_name is PT sir - 2024-06-25 18:16:34 total price is 600 and GST is 150.0 %
+You registered successfully.
+Your movie_name is Aranmanai4 - 2024-06-25 18:29:36 total price is 400 and GST is 8000.0 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 18:30:30 total price is 600 and GST is 200.0 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-25 18:33:05 total price is 200 and GST is 200.0 %
+You registered successfully.
+Your movie_name is Dear - 2024-06-25 18:33:37 total price is 800 and GST is 200.0 %
+You registered successfully.
+Your movie_name is Aranmanai4 - 2024-06-25 18:35:04 total price is 400 and GST is 100.0 %
+You registered successfully.
+Your movie_name is Aavesham - 2024-06-26 19:36:31 total price is 600 + GST: 108.0 (18%) = 708.0
+ %
+You registered successfully.

@@ -1,0 +1,1 @@
+SELECT * FROM movie_list_db.movie_list;
